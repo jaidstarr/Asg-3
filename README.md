@@ -17,9 +17,3 @@ The benefits of creating webgen as a system user:
 - Doing this avoids using root, as using root increases risks of altering important system files.
 - The user has limited permissions as to what they can do. reducing risk.
 - Tracking which processes and files belong to each service is easier as each system user has their own purpose. 
-
-
-## Task 2
-
-
-
